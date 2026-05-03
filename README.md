@@ -56,5 +56,5 @@ Monitor sales and profit trends
 Improve supply chain decisions based on shipping insights
 Forecast short-term sales for planning
 
- Conclusion
+
 This dashboard enables stakeholders to gain actionable insights into sales performance and future trends, making it a powerful tool for business intelligence and strategic planning.
