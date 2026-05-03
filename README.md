@@ -1,4 +1,6 @@
 <img width="1599" height="852" alt="Screenshot 2026-03-31 160818" src="https://github.com/user-attachments/assets/e650deb9-b0eb-4db2-bcab-11928147ecd1" /># SUPER-SALES-STORE-DASHBOARD
+<img width="1599" height="864" alt="Screenshot 2026-03-31 160716" src="https://github.com/user-attachments/assets/bdb004d8-d318-407a-8645-e634b17aabe6" />
+
 Interactive Power BI dashboard for Super Store sales analysis with regional insights, customer segmentation, and 15-day sales forecasting.
 Forecast (Power BI)
 This project presents an interactive Power BI dashboard built on Super Store sales data to analyze business performance and generate short-term sales forecasts.
